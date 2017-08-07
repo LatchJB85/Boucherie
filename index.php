@@ -627,7 +627,7 @@
 
          
          <ul>Samedi 9 juillet, de nombreux clients curieux ont pu profiter d'une journée portes ouvertes pour visiter les locaux rénovés de la Boucherie Mariéthoz à Haute-Nendaz.
-         <ul>Fondée en <strong>1948</strong> par Juliette et Jean Mariéthoz dans des locaux proches de la chapelle St-Michel, la boucherie a ensuite déménagéé au village en <strong>1961</strong>,puis au centre de la station dès 1970. Malgré une première rénovation, déjà en <strong>1993</strong>, une adaptation aux normes actuelles était nécessaire.
+         <ul>Fondée en <strong>1948</strong> par Juliette et Jean Mariéthoz dans des locaux proches de la chapelle St-Michel, la boucherie a ensuite déménagé au village en <strong>1961</strong>,puis au centre de la station dès 1970. Malgré une première rénovation, déjà en <strong>1993</strong>, une adaptation aux normes actuelles était nécessaire.
          <ul>Les locaux de fabrication ont donc subi un "lifting total" et les dernières innovations techniques en matière de boucherie y ont été installées. Fidèle à sa devise, la troisième génération continue, avec des moyens modernes, à maintenir la tradition d'un savoir-faire artisanal au service d'une qualité irréprochable.
 
             <small class="pull-right">Extrait de l'écho de la printze<br>Photographie: Jean-Pierre Guillermin</small><br>
@@ -1409,10 +1409,10 @@
 
             <section class="row">        
 
-            <div class="col-xs-12 col-sm-4 col-md-4">Website by<a class="facebook" href="mailto:info@latch85.ch">L@tch85</a></div>
+            <div class="col-xs-12 col-sm-4 col-md-4">Website by<a class="facebook" href="http://latch85.ch">L@tch85</a></div>
             <div class="col-xs-12 col-sm-4 col-md-4">Logo by <a class="facebook" href="https://www.ign.ch/">IGN</a></div>                  
             <div class="col-xs-12 col-sm-4 col-md-4">Pictures of our products&ensp;
-            <a class="facebook" href="https://fr-fr.facebook.com/public/Florian-Bouvet">Florian Bouvet</a></div>
+            <a class="facebook" href="https://www.florianbouvetfournier.com/">Florian Bouvet</a></div>
             </section>
     </div>
     </div>
